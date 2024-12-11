@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\learning_springBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\515048206.index
+\Dependency_Injection\src\main\resources
+D:\learning_springBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3630616950.index
+\AutoWire\src\main\resources

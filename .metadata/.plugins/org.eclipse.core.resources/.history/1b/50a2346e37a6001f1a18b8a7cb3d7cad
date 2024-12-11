@@ -1,0 +1,13 @@
+package Car;
+
+import Interface.Car;
+
+public class Swift implements Car {
+
+	@Override
+	public void specs() {
+		System.out.println("Swift is a compact Car");
+
+	}
+
+}

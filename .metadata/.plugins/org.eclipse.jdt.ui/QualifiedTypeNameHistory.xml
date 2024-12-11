@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.SwingWorker"/>
+    <fullyQualifiedTypeName name="Learning_Dependency.Car.Swift"/>
+    <fullyQualifiedTypeName name="Learning_Dependency.Interfaces.car"/>
+    <fullyQualifiedTypeName name="Learning_Dependency.Car.Corolla"/>
+    <fullyQualifiedTypeName name="AppConfig"/>
+    <fullyQualifiedTypeName name="Pratice_01.Interface.Car"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="Car.Swift"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+</qualifiedTypeNameHistroy>
